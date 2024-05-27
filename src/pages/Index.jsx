@@ -10,8 +10,8 @@ const Index = () => {
         <Box boxSize="sm">
           <Image src="/images/travel.jpg" alt="Travel" />
         </Box>
-        <Button as={Link} to="/book" colorScheme="teal" size="lg">
-          Start Booking
+        <Button as={Link} to="/search-flights" colorScheme="teal" size="lg">
+          Search Flights
         </Button>
       </VStack>
     </Container>
